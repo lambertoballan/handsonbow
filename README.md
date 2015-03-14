@@ -6,5 +6,5 @@ This tutorial has been held in conjunction with ICPR 2014 and ICIAP 2013. It is 
 More info at: https://sites.google.com/site/handsonbow/
 
 Instructors:
-Lamberto Ballan, Ph.D. (www.micc.unifi.it/ballan)
-Lorenzo Seidenari, Ph.D. (www.micc.unifi.it/seidenari)
+- Lamberto Ballan, Ph.D. (www.micc.unifi.it/ballan)
+- Lorenzo Seidenari, Ph.D. (www.micc.unifi.it/seidenari)
