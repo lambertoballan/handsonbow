@@ -19,3 +19,11 @@ We provide these datasets in two versions: image only and image + pre-computed v
 - http://www.micc.unifi.it/downloads/tutorial_bow/images_and_feat/15_ObjectCategories.zip (1.6GB)
 
 Once you have downloaded the files the default directory in which they should be unzipped is "~/handsonbow/img".
+
+# Howto
+The starting point of the tutorial is the Matlab script exercises.m.
+In this script you will find several exercises to be completed. For each of them, the instructions/suggestions are provided as comments in the script and you have to add some lines of code where requested.
+
+We provide also a complete version of the same script (exercises_solutions.m).
+
+The file with solutions is intended to be used as a reference and we usually do not provide them in class.
