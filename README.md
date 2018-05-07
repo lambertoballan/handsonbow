@@ -6,8 +6,8 @@ This tutorial has been held in conjunction with ICPR 2014 and ICIAP 2013. It is 
 More info at: https://sites.google.com/site/handsonbow/
 
 Instructors:
-- Lamberto Ballan, Ph.D. (www.lambertoballan.net)
-- Lorenzo Seidenari, Ph.D. (www.micc.unifi.it/seidenari)
+- Lamberto Ballan, Ph.D. - University of Padova, Italy (www.lambertoballan.net)
+- Lorenzo Seidenari, Ph.D. - University of Florence, Italy (www.micc.unifi.it/seidenari)
 
 # Datasets
 The tutorial is based on the Caltech-101 dataset. We provide two subsets for experiments: 4_ObjectCategories and 15_ObjectCategories.
